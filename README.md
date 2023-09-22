@@ -21,3 +21,8 @@ Video Tab:
 
 The "Video" tab allows users to watch videos.
 A video player is embedded within the tab for viewing video content.
+
+Here is a simple preview of how the app looks:
+
+https://github.com/ksba2004/JSRJHBKJ/assets/99543379/534ff47d-ca7c-4001-b6d0-6547ede66434
+
